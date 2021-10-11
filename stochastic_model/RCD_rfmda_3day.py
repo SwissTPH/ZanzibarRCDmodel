@@ -1,5 +1,9 @@
 # -*- coding: utf-8 -*-
 """
+Copyright (C) 2021 Swiss Tropical and Public Health Institute
+
+This malaria model is free software; you can redistribute it and/or modify it under the terms of version 2 of the GNU General Public License as published by the Free Software Foundation.
+
 RCD_rfmda_3day.py
 Changing from RCD to rfMDA (test sensitivity = 1)
 
