@@ -20,4 +20,4 @@ This folder contains the files used to simulate interventions following calibrat
 * RCD_double_3day.py: Doubling the treatment seeking rate
 * RCD_rfmda_3day.py: Switching from RCD to rfMDA
 * RCD_rfmda_neighbours_3day.py: Switching from RCD to rfMDA and including 4 neighbouring households
-* RCD_imp_treat_30_3day.py: Treating 50% of imported cases coming onto btoh Pemba and Unguja
+* RCD_imp_treat_30_3day.py: Treating 50% of imported cases coming onto both Pemba and Unguja
